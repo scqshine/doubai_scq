@@ -1,0 +1,76 @@
+{
+    "code": "0000",
+    "toast": "",
+    "new_recommend_count_str": "",
+    "group": [
+        {
+            "title": "新组速报",
+            "group_list": [
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/33c7b3218a39164.jpg",
+                    "group_name": "反大数据联盟",
+                    "group_member": "1776人",
+                    "topic_title": "我们不需要大数据来做鬼魅，以方便之名，行肮脏之事。我们，反对滥用大数据！"
+                },
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/ad2124d7a3b4af0.jpg",
+                    "group_name": "刚才发生了一件重要的小事",
+                    "group_member": "126人",
+                    "topic_title": "相信那些看似不经意的小事，终会引发生命里的蝴蝶效应。"
+                },
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/6bab910bf693a56.jpg",
+                    "group_name": "胶片里的美丽人儿",
+                    "group_member": "357人",
+                    "topic_title": "你最美好的样子，电影都替你记住了。分享观影中那些心动的瞬间。"
+                }
+            ]
+        },
+        {
+            "title": "热门小组",
+            "group_list": [
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/ead17b448fd9f4e.jpg",
+                    "group_name": "国产剧",
+                    "group_member": "26995人",
+                    "topic_title": "这里是国产剧爱好者小组，欢迎讨论所有关于国产剧的话题。"
+                },
+                {
+                    "img_url": "https://img1.doubanio.com/view/group/sqxs/public/53e1ff0636ec9dc.jpg",
+                    "group_name": "抠门女性联合会",
+                    "group_member": "6918人",
+                    "topic_title": "本组专供女性朋友们交流抠门心得，共同谴责挥霍浪费的同姓异性伴侣。"
+                },
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/4d960a7f101c441.jpg",
+                    "group_name": "旅行青蛙",
+                    "group_member": "8654人",
+                    "topic_title": "欢迎呱呱们的老母亲来此交流经验。"
+                }
+            ]
+        },
+        {
+            "title": "影视",
+            "group_list": [
+                {
+                    "img_url": "https://img1.doubanio.com/view/group/sqxs/public/0d153bbbab9b09b.jpg",
+                    "group_name": "一言不合就怼怼怼（烂片推介）",
+                    "group_member": "2069人",
+                    "topic_title": "组长是一个乐于助人的人，所以会挑出烂片，避免大家浪费时间错过每一部烂片。"
+                },
+                {
+                    "img_url": "https://img1.doubanio.com/view/group/sqxs/public/44df08c9cc43adb.jpg",
+                    "group_name": "迷魂记┃Deeper",
+                    "group_member": "2643人",
+                    "topic_title": "欢迎影迷朋友来讨论有关电影的一切，主要还是围绕欧洲大师，艺术片，独立电影，类型片。"
+                },
+                {
+                    "img_url": "https://img3.doubanio.com/view/group/sqxs/public/a87df0d4420a854.jpg",
+                    "group_name": "小仙女剧基地",
+                    "group_member": "975人",
+                    "topic_title": "在这里你可以任性地尬聊你喜欢的或者想要分享的一切影视作品（电视剧、电影、动漫、综艺、纪录片…）！"
+                }
+            ]
+        }
+    ]
+}
